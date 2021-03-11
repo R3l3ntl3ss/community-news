@@ -52,7 +52,7 @@
     "react-firebaseui": "^4.1.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0",
-    "react-tag-input": "^6.4.2"
+    "react-tag-input": "^6.5.2"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
