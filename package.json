@@ -43,7 +43,7 @@
   ],
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "firebase": "^7.7.0",
+    "firebase": "^7.24.0",
     "firebaseui": "^4.4.0",
     "react": "^16.12.0",
     "react-dnd": "^5.0.0",
